@@ -1,0 +1,217 @@
+(1)Mostek typu H w Zastosowaniu do włączania silnika prądu stałego umożliwia...:
+4
+Sterowanie obrotami silnika w obie strony.
+Dwukrotne zwiększenie mocy silnika.
+Dwukrotne zwiększenie momentu obrotowego silnika.
+Przyłączenie silnika do Źródła zasilania o dwukrotnie większym napięciu niż przy zastosowaniu zwykłego wyłącznika.
+1
+(2)Przetwornik A/C z wielokrotnym całkowaniem charakteryzuje się między innymi...
+4
+Eliminacją zakłóceń współbieżnych.
+Dużą prędkością działania.
+Małą prędkością działania.
+Eliminacją błędu aliasingu.
+3
+(3)W programach w LabView rejestry przesuwające (FIFO) umożliwiają:
+4
+Utworzenie wielowymiarowych macierzy.
+Utworzenie łańcuchów tekstowych.
+Dostęp w pętli do wartości z poprzednich wykonań tej pętli.
+Wielokrotny pomiar za pomocą jednego urządzenia przyłączonego poprzez USB.
+3
+(4)Sterowanie grupowe charakteryzuje się tym, że:
+4
+Jeden sterownik steruje całą grupą urządzeń.
+Jeden sterownik wykorzystuje grupę wejściowych sygnałów pomiarowych.
+Moc do obciążenia włączana i wyłączana jest przy przejściu przez zero zasilającego prądu zmiennego.
+Grupa sterowników steruje jednym obiektem.
+3
+(5)Interfejs RS232:
+4
+Jest interfejsem równoległym.
+Umożliwia połączenie do 16 przyrządów.
+Jest interfejsem szeregowym.
+Jest bajtowym interfejsem równoległym.
+3
+(6)Szumy kwantyzacji 10-bitowego przetwornika C/A w stosunku do pełnego zakresu przetwarzania wynoszą około:
+4
+-20dB.
+-40dB.
+-60dB.
+-80d8.
+3
+(7)Tensometr to...:
+4
+Miernik napięcia elektrycznego.
+Czujnik odkształceń mechanicznych.
+Rodzaj czujnika temperatury.
+Miernik ciśnienia gazów palnych .
+2
+(8)Połączenie wielu nadajników do jednej linii transmisyjnej umożliwia interfejs:
+4
+RS422.
+RS232
+RS485.
+Równoległy interfejs komputera PC.
+3
+(9)Architektura magistrali (szyny) charakteryzuje się tym, że:
+4
+Kontroler ma osobny interfejs dla każdego przyrządu.
+Wszystkie urządzenia są połączone do jednego zestawu przyrządów.
+Zawiera tylko jeden przewód.
+Zawiera po jednym przewodzie na każdy przyrząd.
+2
+(10)Aliasing jest skutkiem:n
+4
+Dyskretyzacji.
+Zakłóceń współbieżnych.
+Transformaty Fouriera.
+Odwrotnej transformaty Fouriera.
+1
+(11)10-bitowy przetwornik C/A posiada błąd dyskretyzacji około:
+4
+10%
+1%
+0.1%
+0.01%
+3
+(12)Regulator PID różni się od regulatora PI tym, że:
+4
+Posiada człon różniczkujący.
+Ma zerowy uchyb regulacji.
+Ma większe wzmocnienie.
+Ma mniejsze wzmocnienie.
+1
+(13)Interfejs IEEE488 (GPIB):
+4
+Jest synchronicznym interfejsem szeregowym.
+Umożliwia połączenie dowolnej liczby przyrządów.
+Umożliwia obsługę urządzeń o różnej prędkości działania.
+Umożliwia połączenie przyrządów na dowolnie duże odległości.
+3
+(14)Napięcie na wyjściu wzmacniacza różnicowego:
+4
+Jest proporcjonalne do różnicy napięć na wejściach.
+Jest odwrotnie proporcjonalne do różnicy napięć na wejściach.
+Jest różnicą napięć między wyjściem i wejściem.
+Jest różnicą napięć między wejściem a napięciem zasilania.
+1
+(15)Interfejs RS485:
+4
+Jest interfejsem równoległym.
+Umożliwia połączenie do 4 przyrządów.
+Umożliwia przyłączenie do linii wielu odbiorników.
+Jest bajtowym interfejsem równoległym.
+3
+(16)Czujnik generacyjny charakteryzuje się tym, że:
+4
+Generuje napięcie sinusoidalnie zmienne.
+Elektryczny sygnał wyjściowy jest zależny od mierzonego parametru.
+Wymaga zasilania napięciem stałym.
+Wymaga przyłączenia generatora napięcia zmiennego.
+2
+(17)Termistor to:
+4
+Miernik napięcia elektrycznego.
+Czujnik odkształceń mechanicznych.
+Rodzaj czujnika temperatury.
+Miernik ciśnienia gazów palnych.
+3
+(18)VI (Virtual Instrument) to:
+4
+Uniwersalny miernik, który potrafi mierzyć napięcie, natężenie prądu i opór elektryczny.
+Ogólna nazwa procedury lub programu w LabView.
+Miernik zawierający mikroprocesor.
+Miernik, który może współpracować z komputerem.
+2
+(19)Architektura gwiazdy charakteryzuje się tym, że:
+4
+Kontroler ma osobny interfejs dla każdego przyrządu.
+Wszystkie przyrządy są połączone do jednej magistrali.
+Zawiera tylko jeden przewód.
+Łączy wszystkie przyrządy w pętlę.
+1
+(20)Sterowanie impulsowe impulsami o zmiennym wypełnieniu różni się tym od analogowego, że:
+4
+Generuje mniejsze zakłócenia.
+Ma dużo mniejszą sprawność energetyczną.
+Często ma większą sprawność energetyczną.
+Nadaje się tylko do układów o małej bezwładności.
+3
+(21)8-bitowy przetwornik C/A posiada błąd dyskretyzacji około:
+4
+25%
+2.5%
+0.25%
+0.025%
+3
+(22)Krokowy silnik bipolarny różni się tym od unipolarnego, że...
+4
+Może obracać się w obie strony.
+Może obracać się tylko w jedną stronę.
+W jego uzwojeniach prąd płynie w obie strony.
+Ma zakres ograniczony do 180 stopni.
+3
+(23)Multiplekser analogowy w układzie pomiarowym umożliwia...
+4
+Zasilanie wielu urządzeń z jednej wspólnej sieci elektrycznej.
+Mieszanie sygnałów elektrycznych z wielu źródeł.
+Wybór jednego z wielu sygnałów elektrycznych.
+Zamianę sygnałów analogowych na cyfrowe.
+3
+(24)W regulatorze proporcjonalnym nie można zastosować bardzo dużego wzmocnienia, gdyż...
+4
+Nie da się zbudować takiego wzmacniacza.
+Zbyt duże wzmocnienie powoduje niestabilność układu regulowanego.
+Zbyt duże wzmocnienie powoduje wystąpienie błędu aliasingu.
+Zbyt duże wzmocnienie uniemożliwia pomiar wielkości regulowanej.
+2
+(25)Napięcie na wyjściu idealnego wzmacniacza różnicowego:
+4
+Jest proporcjonalne do różnicy napięć na wejściach.
+Jest odwrotnie proporcjonalne do różnicy napięć na wejściach.
+Jest różnicą napięć między wyjściem i wejściem.
+Jest różnicą napięć między wejściem a napięciem zasilania.
+1
+(26)Połączenie wielu nadajników do jednej linii transmisyjnej umożliwia interfejs:
+4
+RS422.
+RS423.
+RS485.
+Równoległy interfejs komputera PC.
+3
+(27)Błąd aliasingu jest skutkiem:n
+4
+Dyskretyzacji danych analogowych w procesie przetwarzania.
+Złego wytłumienia zakłóceń współbieżnych.
+Transformaty Fouriera.
+Odwrotnej transformaty Fouriera.
+1
+(28)Połączenie wielu nadajników do jednej linii transmisyjnej umożliwia interfejs:
+4
+RS422.
+RS423.
+RS485.
+Centronics.
+3
+(29)8-bitowy przetwornik C/A posiada błąd dyskretyzacji około:
+4
+40%
+4%
+0.4%
+0.04%
+3
+(30)Układ próbkująco-pamiętający...n
+4
+To rodzaj pamięci RAM pamiętający wyniki pomiarów
+To inna nazwa pamięci ROM
+To analogowy układ podtrzymujący sygnał mierzony.
+To cyfrowy układ pamiętający adres czujnika pomiarowego
+3
+(31)Przetwornik A/C pracujący na zasadzie bezpośredniego porównania charakteryzuje się...
+4
+Bardzo dużą szybkością działania.
+Dużą dokładnością pomiarów.
+Dokładnością przetwarzania co najwyżej szesnastu bitów.
+Brakiem zjawiska aliasingu.
+1
